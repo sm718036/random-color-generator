@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #F6E9B2;
+}
+
+.navbar-brand {
+    color: #7ABA78;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color: #0A6847;
+}
+
+.nav-link {
+    font-size: x-large;
+}
+
+.navbar-nav {
+    margin-left: 60%;
+}
+
+.container {
+    height: 80vh;
+}
+
+.card-body {
+    background-color: #F3CA52;
+}
+
+.btn-primary {
+    background-color: #7ABA78;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0A6847;
+}
